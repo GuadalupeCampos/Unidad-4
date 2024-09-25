@@ -4,7 +4,7 @@
  ### semana 12 contiene💻:
 * s56☑️
 * s57☑️
-* s58
+* s58☑️
 * s59
 * s60
 ### semana 13 contiene 💻:
