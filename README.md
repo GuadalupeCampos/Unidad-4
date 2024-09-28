@@ -6,7 +6,10 @@
 * s57☑️
 * s58☑️
 * s59☑️
-* s60
+* s60☑️
+## Boostrap log in instagram
+(https://images.minitool.com/minitool.com/images/uploads/news/2023/02/instagram-login-sign-up/instagram-login-sign-up-1.png)
+
 ### semana 13 contiene 💻:
 * s61
 * s62
