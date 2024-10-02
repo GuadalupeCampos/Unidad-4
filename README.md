@@ -11,8 +11,8 @@
 ![ 💻 ](https://images.minitool.com/minitool.com/images/uploads/news/2023/02/instagram-login-sign-up/instagram-login-sign-up-1.png)
 
 ### semana 13 contiene 💻:
-* s61
-* s62
+* s61☑️ 💻 [Diario digital](https://github.com/GuadalupeCampos/Proyecto-ejem-u-4)
+* s62☑️💻 [Diario digital](https://github.com/GuadalupeCampos/Proyecto-ejem-u-4)
 * s63
 * s64
 * s65
