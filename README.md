@@ -11,17 +11,17 @@
 ![ 💻 ](https://images.minitool.com/minitool.com/images/uploads/news/2023/02/instagram-login-sign-up/instagram-login-sign-up-1.png)
 
 ### semana 13 contiene 💻:
-* s61☑️ 💻 [Diario digital](https://github.com/GuadalupeCampos/Proyecto-ejem-u-4)
-* s62☑️💻 [Diario digital](https://github.com/GuadalupeCampos/Proyecto-ejem-u-4)
-* s63
-* s64
-* s65
+* s61☑️diario digital
+* s63☑️diario digital
+* s64☑️diario digital
+* s65☑️diario digital
 ### semana 14 contiene💻:
-* s66
-* s67
-* s68
-* s69
+* s66☑️ diario-digital
+* s67☑️ diario-digital
+* s68☑️ diario-digital
+* s69☑️ 
 * s70
+[Diario digital](https://github.com/GuadalupeCampos/Proyecto-ejem-u-4)
 ### semana 15 contiene💻:
 * s71
 * s72
